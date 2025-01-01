@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361712152974",
+    "project_id": "destify-2ee97",
+    "storage_bucket": "destify-2ee97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361712152974:android:1c1167fd603e4d16cdf4df",
+        "android_client_info": {
+          "package_name": "com.example.destify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx2tmN2IfZvCVW6gxbvztmOARb8MU4Szs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
